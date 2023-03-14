@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-gradle [![Build](https://github.com/tripplilley/asdf-gradle/actions/workflows/build.yml/badge.svg)](https://github.com/tripplilley/asdf-gradle/actions/workflows/build.yml) [![Lint](https://github.com/tripplilley/asdf-gradle/actions/workflows/lint.yml/badge.svg)](https://github.com/tripplilley/asdf-gradle/actions/workflows/lint.yml)
+# asdf-gradle [![Build](https://github.com/veatech/asdf-gradle/actions/workflows/build.yml/badge.svg)](https://github.com/veatech/asdf-gradle/actions/workflows/build.yml) [![Lint](https://github.com/veatech/asdf-gradle/actions/workflows/lint.yml/badge.svg)](https://github.com/veatech/asdf-gradle/actions/workflows/lint.yml)
 
 
 [gradle](https://docs.gradle.org/current/userguide/userguide.html) plugin for the [asdf version manager](https://asdf-vm.com).
@@ -28,7 +28,7 @@ Plugin:
 ```shell
 asdf plugin add gradle
 # or
-asdf plugin add gradle https://github.com/tripplilley/asdf-gradle.git
+asdf plugin add gradle https://github.com/veatech/asdf-gradle.git
 ```
 
 gradle:
@@ -54,7 +54,7 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/tripplilley/asdf-gradle/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/veatech/asdf-gradle/graphs/contributors)!
 
 # License
 
